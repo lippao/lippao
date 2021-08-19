@@ -1,8 +1,19 @@
-### Hello! Eu sou o Felippe Mac 👋
+<div align="center">
+ 
+# Hey there, Eu sou o Felippe Mac! 👋😎
+</div>
+
+---
+##  🖊 About me: 
 
 
-- 🔭 Atualmente trabalhando com marketing digital
-- 🌱 Estudando Python e C
+👩‍💻 <strong>Programador em progresso_</strong> 
+
+👣 26 anos.
+
+🌍 Da linda e bela Floripa/SC.
+
+❤ Apaixonado por tecnologia, ajudar pessoas, desevolvimento e estratégia. 🎯🚀
 
 -->
 
