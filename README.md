@@ -7,11 +7,11 @@
 ##  🖊 About me: 
 
 
-👩‍💻 <strong>Programador em progresso_</strong> 
+👩‍💻 <strong>Fullstack in progress_</strong> 
 
 👣 26 anos.
 
-🌍 Da linda e bela Floripa/SC.
+🌍 Beautiful Floripa/SC.
 
 ❤ Apaixonado por tecnologia, ajudar pessoas, desevolvimento e estratégia. 🎯🚀
 
