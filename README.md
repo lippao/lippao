@@ -9,11 +9,11 @@
 
 👩‍💻 <strong>Fullstack in progress_</strong> 
 
-👣 26 anos.
+👣 26 yo.
 
 🌍 Beautiful Floripa/SC.
 
-❤ Apaixonado por tecnologia, ajudar pessoas, desevolvimento e estratégia. 🎯🚀
+❤ technology lover and serve the peoples. 🎯🚀
 
 -->
 
