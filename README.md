@@ -9,7 +9,7 @@
 
 👩‍💻 <strong>Fullstack in progress_</strong> 
 
-👣 27 yo.
+👣 28 yo.
 
 🌍 Beautiful Floripa/SC.
 
