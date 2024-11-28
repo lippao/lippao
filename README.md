@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hey there, Eu sou o Felippe Mac! 👋😎
+# Hello world, Eu sou o Felippe Mac! 👋😎
 </div>
 
 ---
@@ -9,7 +9,7 @@
 
 👩‍💻 <strong>Fullstack in progress_</strong> 
 
-👣 28 yo.
+👣 29 yo.
 
 🌍 Beautiful Floripa/SC.
 
